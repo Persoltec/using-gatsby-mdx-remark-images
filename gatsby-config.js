@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/using-gatsby-mdx-remark-images',
   siteMetadata: {
     title: 'Using gatsby-remark-images with gatsby-mdx',
     siteUrl: 'https://raulrpearson.github.io/using-gatsby-mdx-remark-images' // no trailling slash
