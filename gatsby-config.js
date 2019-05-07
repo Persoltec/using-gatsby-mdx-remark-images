@@ -4,6 +4,12 @@ module.exports = {
     siteUrl: 'https://raulrpearson.github.io/using-gatsby-mdx-remark-images' // no trailling slash
   },
   plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`
+      }
+    },
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-mdx`,
