@@ -16,8 +16,6 @@
     "gatsby-mdx": "^0.6.3",
     "gatsby-plugin-sharp": "^2.0.36",
     "gatsby-remark-images": "^3.0.11",
-    "gatsby-source-filesystem": "^2.0.33",
-    "gatsby-transformer-sharp": "^2.1.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
